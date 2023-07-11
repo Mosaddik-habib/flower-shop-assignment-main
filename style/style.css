@@ -53,4 +53,17 @@
     text-align: center;
     font-size: 18px;
  }
- 
+
+ .featured-flowers{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    gap: 10px;
+ }
+ .flower{
+    width: 100%;
+ }
+ .flower-tree{
+    width: 370px;
+    height: 370px;
+ }
