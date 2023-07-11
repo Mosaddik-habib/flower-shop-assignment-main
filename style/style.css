@@ -1,4 +1,6 @@
 
+/*   Bannar Section   */
+
 .header-function{
     background: rgba(159, 113, 123, 0.27)
 }
@@ -11,25 +13,44 @@
 }
 
 .banner-title{
+    color: #272727; 
     margin-top: 5px;
     margin-bottom: 20px;
-    font-size: 40px;
-    font-weight: 600;
-    color: #272727; 
+    font-size: 60px;
+    font-weight: 700;
 }
 
 .banner-fullform{
     color:  #757575;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     margin-top: 5px;
     margin-bottom: 15px;
    
 }
+
+/*   Button  Section  */
+
 .btn-primary{
     background: #E55473;
-    padding: 15px 40px;
+    padding: 20px 40px;
     margin-top: 10px;
-    border-radius: 5px;
+    border-radius: 8px;
     font-size: 15px;
 }
+
+/*  Our Featured Flowers  */
+
+.header-section{
+    color: #181818;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+ }
+
+ .featured-discription{
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+ }
+ 
