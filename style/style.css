@@ -61,7 +61,7 @@
     gap: 10px;
  }
  .flower{
-    width: 100%;
+    width: 200px;
  }
  .flower-tree{
     width: 370px;
@@ -106,6 +106,8 @@
     margin-bottom: 10px;
     text-align: center;
 }
+
+/*   Get The latest Deals */
 .btn-secondary{
     background: #E55473;
     color: #FFF;
@@ -115,4 +117,19 @@
     border-radius: 5px;
     font-size: 15px;
 
+}
+
+
+
+.latest-deals{
+    display: flex;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    border-radius: 10px;
+    margin-left: 300px; 
+    margin-right: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
 }
