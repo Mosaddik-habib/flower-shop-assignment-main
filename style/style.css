@@ -1,0 +1,14 @@
+.bannar-fuction{
+    display: flex;
+    padding: 30px 30px 0px 150px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner-title{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-weight: 700;
+    color: #272727; 
+}
